@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 Grove Mentorship is a Student Mentorship Platform developed as part of IFQ636 at Queensland University of Technology. The platform facilitates structured mentorship relationships between university students and experienced mentors including academic staff, industry professionals, and senior peers.
 
@@ -31,7 +31,7 @@ Grove Mentorship is a Student Mentorship Platform developed as part of IFQ636 at
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -45,7 +45,7 @@ Grove Mentorship is a Student Mentorship Platform developed as part of IFQ636 at
 
 ---
 
-## 🚀 Local Setup Instructions
+## Local Setup Instructions
 
 ### Prerequisites
 
