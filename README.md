@@ -104,32 +104,4 @@ Register a new account or use the test credentials above.
 
 ---
 
-## Project Structure
-grove-mentorship/
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   ├── User.js
-│   │   ├── MentorProfile.js
-│   │   ├── MentorshipRequest.js
-│   │   ├── Session.js
-│   │   ├── Review.js
-│   │   ├── Message.js
-│   │   └── Announcement.js
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   └── App.jsx
-│   └── package.json
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
-└── README.md
+
